@@ -5,6 +5,7 @@ Keep in mind this is supposed to be a very simple model, without open and close 
 
 
 | Feature | Explanation |
+| --- | ----------- |
 | MA 7 | Moving Average of the last 7 days |
 | MA 20 | Moving Average of the last 20 days |
 | MA 50 | Moving Average of the last 50 days |
